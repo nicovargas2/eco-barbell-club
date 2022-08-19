@@ -14,7 +14,7 @@ function Navbar() {
             <nav className="navbar">
                 <div className="navbar-container">
                     <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-                        ECO Barbell Club <i className="fab fa-typo3"></i>
+                        ECO Barbell Club
                     </Link>
                     <div className='menu-icon' onClick={handleClick}>
                         <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
@@ -26,13 +26,13 @@ function Navbar() {
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/who' className='nav-links' onClick={closeMobileMenu}>
+                            <Link to='/trainwithus' className='nav-links' onClick={closeMobileMenu}>
                                 Quienes somos
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/contact' className='nav-links' onClick={closeMobileMenu}>
-                                Contacto
+                            <Link to='/events' className='nav-links' onClick={closeMobileMenu}>
+                                Eventos
                             </Link>
                         </li>
                     </ul>
