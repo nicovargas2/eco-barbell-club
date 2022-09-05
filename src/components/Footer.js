@@ -11,7 +11,7 @@ function Footer() {
           <div>
             <img className='footer-logo'
               alt='Eco logo'
-              src='images/LOGO FINAL 6 png.png' />
+              src='images/LOGO_FINAL_6.png' />
           </div>
           <div>
             <h2 className='footer-link-title'>Seguinos: &nbsp; 
