@@ -1,5 +1,5 @@
-  .hero-container {
-    background: url('../../public/images/exhibicion1.jpg')
+.TrainWithUs-container {
+    background: url('../../../public/images/prepcompeticion1.jpg')
     center center/cover no-repeat;
     height: 100vh;
     width: 100%;
@@ -11,14 +11,13 @@
     object-fit: contain;
   }
   
-  
-  .hero-container > h1 {
+  .TrainWithUs-container > h1 {
     color: #fff;
     font-size: 100px;
     margin-top: -100px;
   }
   
-  .hero-container > p {
+  .TrainWithUs-container > p {
     margin-top: 8px;
     color: #fff;
     font-size: 32px;
@@ -26,3 +25,8 @@
       'Lucida Sans', Arial, sans-serif;
   }
   
+  .descriptioncontainer{
+    color: #fff;
+    font-size: 20px;
+    margin-top: -100px;
+  }
