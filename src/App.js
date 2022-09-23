@@ -13,13 +13,14 @@ function App() {
   // Redirect Page
 const RedirectPage1 = () => {
   useEffect(() => {
-    window.location.replace('https://www.instagram.com/eco_barbell_club/?hl=es-la');
+    window.location.replace('https://www.instagram.com/ecobarbellclub/?hl=es-la');
   }, [])
 
   return <div>
     <h3>Redirecting...</h3>
   </div>
 }
+
 
 const RedirectPage2 = () => {
   useEffect(() => {

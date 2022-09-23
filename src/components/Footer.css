@@ -25,6 +25,13 @@
     padding: 12px;
   }
   
+  .footer-link-wrapper > div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
   .footer-logo{
     width: 90px;
     height: 90px;
