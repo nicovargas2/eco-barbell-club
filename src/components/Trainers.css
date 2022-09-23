@@ -26,10 +26,11 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color:rgba(0, 0, 0, 0.2);
 }
 
 .title {
-    color: grey;
+    color: #b8b894;
     font-size: 18px;
 }
 

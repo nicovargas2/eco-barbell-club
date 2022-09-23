@@ -1,6 +1,5 @@
 import React from 'react';
 import './Footer.css';
-import { Link } from 'react-router-dom';
 
 function Footer() {
 
@@ -15,26 +14,24 @@ function Footer() {
           </div>
           <div>
             <h2 className='footer-link-title'>Seguinos: &nbsp; 
-            <Link
+            <a href='https://www.instagram.com/ecobarbellclub/?hl=es-la'
               className='social-icon-link'
-              to="/external-link-1"
+              aria-label='Instagram'
               target='_blank'
-              rel="noreferrer"
-              aria-label='Instagram'>
+              rel="noreferrer">
               <i class='fab fa-instagram' />
-            </Link>
+            </a>
             </h2>
           </div>
           <div>
             <h2 className='footer-link-title'>Visitanos: &nbsp; 
-            <Link
+            <a href='https://goo.gl/maps/CCLG6m29DvGzsGE16'
               className='social-icon-link'
-              to="/external-link-2"
               target='_blank'
               rel="noreferrer"
               aria-label='Location'>
               <i class="fas fa-map-marked-alt"></i>
-            </Link>
+            </a>
             </h2>
           </div>
           
