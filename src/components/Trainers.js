@@ -16,8 +16,9 @@ function Trainers() {
                     <p>Edad: </p>
                     <p>Trayectoria: </p>
                     <p>Estudios: Profesor de educación Física</p>
-                    <p>Contacto: </p>
-                    <a href="https://www.instagram.com/enzo.xx4/"><i class='fab fa-instagram' /></a>
+                    <p>Contacto: &nbsp;&nbsp;
+                    <a href="https://wa.me/+5491132051512?text=hola"  target='_blank' rel="noreferrer"><i class='fab fa-whatsapp' /></a>&nbsp;&nbsp;
+                    <a href="https://www.instagram.com/enzo.xx4/" target='_blank' rel="noreferrer"><i class='fab fa-instagram' /></a></p>
                 </div>
 
                 <div className="card">
@@ -27,8 +28,9 @@ function Trainers() {
                     <p>Edad: </p>
                     <p>Especialidad: Acondicionamiento, Fuerza </p>
                     <p>Estudios: Profesor de educación Física</p>
-                    <p>Contacto: </p>
-                    <a href="https://www.instagram.com/emacascallar/"><i class='fab fa-instagram' /></a>
+                    <p>Contacto: &nbsp;&nbsp;
+                    <a href="https://wa.me/+5491132051512?text=hola" target='_blank' rel="noreferrer"><i class='fab fa-whatsapp' /></a>&nbsp;&nbsp;
+                    <a href="https://www.instagram.com/emacascallar/" target='_blank' rel="noreferrer"><i class='fab fa-instagram' /></a></p>
                 </div>
 
                 <div className="card">
@@ -38,8 +40,9 @@ function Trainers() {
                     <p>Edad: </p>
                     <p>Especialidad: Acondicionamiento, Fuerza </p>
                     <p>Estudios: Profesor de Educación Física </p>
-                    <p>Contacto: +549-11-3205-1512</p>
-                    <a href="https://www.instagram.com/olmedo_jremias/"><i class='fab fa-instagram' /></a>
+                    <p>Contacto: &nbsp;&nbsp;
+                    <a href="https://wa.me/+5491132051512?text=hola" target='_blank' rel="noreferrer"><i class='fab fa-whatsapp' /></a>&nbsp;&nbsp;
+                    <a href="https://www.instagram.com/olmedo_jremias/" target='_blank' rel="noreferrer"><i class='fab fa-instagram' /></a></p>
                 </div>
             </div>
         </>
